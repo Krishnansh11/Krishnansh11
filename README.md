@@ -1,5 +1,19 @@
 # 💫 About Me:
-Final Year Btech CSE student from Amity University Punjab.<br>I am currently working on Agentic AI project
+Building the next generation of autonomous systems.
+I am a final-year B.Tech CSE student at Amity University Punjab specializing in the shift from static AI to Agentic Workflows. My focus is on creating multi-agent systems that don’t just "predict," but actually "act" to solve complex business problems.
+
+🛠 Tech Stack:
+Agentic Frameworks: CrewAI, OpenAI Agents SDK, LangChain.
+ML/AI: Python, TensorFlow, LLM Fine-tuning, NLP.
+Automation: AI-driven SDR workflows, Autonomous Research Agents.
+
+🚀 Featured Projects:
+Career Digital Twin: An interactive AI agent representing my professional profile to recruiters 24/7.
+Stock Picker Agent (CrewAI): An autonomous system that performs investment research and identifies market opportunities.
+SDR Automation Agent: Automates high-quality, professional B2B email crafting and outreach.
+🎓 Continuous Growth: Certified in Agentic AI (Ed Donner) and actively exploring the frontier of autonomous LLM architectures.
+
+📩 I am currently seeking Summer 2026 Internships in AI/ML and Agentic AI. Let’s connect if you’re building in the world of intelligent automation!
 
 
 ## 🌐 Socials:
